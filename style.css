@@ -1,0 +1,59 @@
+body {
+    background: white;
+    font-family: 'Cousine', courier, sans-serif;
+    font-size: 16px;
+    color: #555;
+    margin: auto 0;
+}
+
+a {
+    text-decoration: none;
+    color: #010101;
+    border-bottom: dotted #999 1px;
+    padding: 3px;
+}
+
+a:link {
+    text-decoration: none;
+    color: #010101;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #010101;
+}
+
+a:active {
+    text-decoration: none;
+    color: #010101;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #010101;
+    border-bottom: solid #924BF3 2px;
+}
+
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    display: block;
+    padding: 20px;
+    width: 90%;
+}
+
+p {
+    padding: 10px;
+}
+
+div#key, div#title, div#links {
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    text-align: center;
+}
+
+div#key {
+    font-size: min(1.7vw, 14px);
+}

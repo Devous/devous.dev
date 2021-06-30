@@ -16,6 +16,21 @@ oh well">
 
     <link href='https://fonts.googleapis.com/css?family=Cousine' rel='stylesheet' type='text/css'>
     <link type="text/css" href="style.css" rel="stylesheet"/>
+
+    <script>
+        function copy() {
+            const element = document.createElement('textarea');
+            element.value = "Devous#0001";
+            document.body.appendChild(element);
+            element.select();
+            document.execCommand('copy');
+            document.body.removeChild(element);
+
+            const discord = document.getElementById("discord");
+            discord.innerText = "copied";
+            setTimeout(() => discord.innerText = "discord", 1000);
+        }
+    </script>
 </head>
 
 <body>
@@ -49,7 +64,7 @@ oh well">
     <div id="links">
         <a href="https://twitter.com/Devous_">twitter</a>
         <a href="https://github.com/Devous">github</a>
-        <a href="https://discord.com/Devous#0001">discord</a>
+        <a id="discord" onclick="copy()">discord</a>
     </div>
 </div>
 </body>

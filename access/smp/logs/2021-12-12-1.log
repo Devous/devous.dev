@@ -1,0 +1,67 @@
+[15:26:51] [User Authenticator #22/INFO]: UUID of player Devous is a008c892-e7e1-48e1-8235-8aa389318b7a
+[15:26:51] [Server thread/INFO]: Devous joined the game
+[15:26:51] [Server thread/INFO]: Devous[/31.185.244.100:54632] logged in with entity id 123318 at ([world]-734.1843316600537, 47.0, -1475.300000011921)
+[15:35:09] [User Authenticator #23/INFO]: UUID of player littleclav is 8415d163-886d-4d2c-81e4-30bbe9406ea0
+[15:35:09] [Server thread/INFO]: littleclav joined the game
+[15:35:09] [Server thread/INFO]: littleclav[/188.95.144.199:47596] logged in with entity id 129243 at ([world]-736.6954749710238, 47.0, -1477.131929605108)
+[15:37:15] [Server thread/INFO]: littleclav fell from a high place
+[15:38:13] [Server thread/INFO]: littleclav tried to swim in lava
+[15:42:22] [User Authenticator #24/INFO]: UUID of player AV3RG is fda0c2bd-a5f5-444c-822a-5de03ff6e4cb
+[15:42:22] [Server thread/INFO]: AV3RG joined the game
+[15:42:22] [Server thread/INFO]: AV3RG[/103.240.234.6:23885] logged in with entity id 138226 at ([world]-5162.127396255154, 75.0, -4686.423744833315)
+[15:48:12] [Server thread/INFO]: littleclav was shot by Skeleton
+[15:50:21] [Server thread/INFO]: AV3RG lost connection: Disconnected
+[15:50:21] [Server thread/INFO]: AV3RG left the game
+[15:51:19] [User Authenticator #25/INFO]: UUID of player AV3RG is fda0c2bd-a5f5-444c-822a-5de03ff6e4cb
+[15:51:19] [Server thread/INFO]: AV3RG joined the game
+[15:51:19] [Server thread/INFO]: AV3RG[/103.240.234.6:21594] logged in with entity id 154165 at ([world]-3897.8855628998153, 109.0, -3221.243943258705)
+[15:52:48] [Server thread/INFO]: Devous lost connection: Disconnected
+[15:52:48] [Server thread/INFO]: Devous left the game
+[15:54:58] [Server thread/INFO]: littleclav lost connection: Disconnected
+[15:54:58] [Server thread/INFO]: littleclav left the game
+[15:56:39] [User Authenticator #26/INFO]: UUID of player Devous is a008c892-e7e1-48e1-8235-8aa389318b7a
+[15:56:39] [Server thread/INFO]: Devous joined the game
+[15:56:39] [Server thread/INFO]: Devous[/31.185.244.100:58017] logged in with entity id 158761 at ([world]-9824.81950005738, 63.0, -688.3149432942639)
+[15:56:48] [User Authenticator #26/INFO]: UUID of player littleclav is 8415d163-886d-4d2c-81e4-30bbe9406ea0
+[15:56:48] [Server thread/INFO]: littleclav joined the game
+[15:56:48] [Server thread/INFO]: littleclav[/188.95.144.199:47564] logged in with entity id 159105 at ([world]198.69999998807907, 76.0, -233.30000001192093)
+[16:03:08] [Server thread/INFO]: Villager EntityVillager['Villager'/169199, uuid='11001f0c-dde6-45a0-ab2a-bae86f5bad34', l='ServerLevel[world]', x=-6111.51, y=69.00, z=-285.50, cpos=[-382, -18], tl=3417, v=true] died, message: 'Villager was slain by Zombie Villager'
+[16:04:02] [Async Chat Thread - #7/INFO]: <AV3RG> where are you both
+[16:04:09] [Async Chat Thread - #7/INFO]: <Devous> ur mom
+[16:04:28] [Async Chat Thread - #7/INFO]: <AV3RG> impossible
+[16:04:32] [Async Chat Thread - #7/INFO]: <AV3RG> i am near my mom
+[16:04:42] [Async Chat Thread - #7/INFO]: <Devous> i'm inside her ;)
+[16:05:03] [Async Chat Thread - #7/INFO]: <AV3RG> I found a trident
+[16:05:08] [Server thread/INFO]: Devous issued server command: /
+[16:05:11] [Async Chat Thread - #7/INFO]: <Devous> k
+[16:05:13] [Async Chat Thread - #7/INFO]: <AV3RG> 3rd trident
+[16:06:14] [Server thread/INFO]: AV3RG lost connection: Disconnected
+[16:06:15] [Server thread/INFO]: AV3RG left the game
+[16:09:35] [User Authenticator #27/INFO]: UUID of player dombogo is 141a2dd1-b4e7-4b77-b071-210590b49a45
+[16:09:35] [Server thread/INFO]: dombogo joined the game
+[16:09:35] [Server thread/INFO]: dombogo[/86.134.148.200:61461] logged in with entity id 177871 at ([world_nether]-5711.923089896329, 128.0, 5714.007303459873)
+[16:16:03] [Server thread/INFO]: dombogo lost connection: Disconnected
+[16:16:03] [Server thread/INFO]: dombogo left the game
+[16:24:06] [Server thread/INFO]: littleclav tried to swim in lava
+[16:25:08] [User Authenticator #28/INFO]: UUID of player dombogo is 141a2dd1-b4e7-4b77-b071-210590b49a45
+[16:25:08] [Server thread/INFO]: dombogo joined the game
+[16:25:08] [Server thread/INFO]: dombogo[/86.134.148.200:60025] logged in with entity id 183066 at ([world_nether]-6606.574654646976, 128.0, 6625.106127398303)
+[16:32:14] [Server thread/INFO]: dombogo lost connection: Disconnected
+[16:32:14] [Server thread/INFO]: dombogo left the game
+[16:35:31] [Server thread/INFO]: littleclav has completed the challenge [Hot Tourist Destinations]
+[16:35:38] [Server thread/INFO]: Devous has completed the challenge [Hot Tourist Destinations]
+[16:37:50] [Server thread/INFO]: littleclav burned to death
+[16:40:33] [Server thread/INFO]: littleclav was slain by Piglin
+[16:41:02] [Server thread/INFO]: Devous lost connection: Disconnected
+[16:41:02] [Server thread/INFO]: Devous left the game
+[16:43:20] [Server thread/INFO]: littleclav tried to swim in lava to escape Skeleton
+[16:46:39] [User Authenticator #29/INFO]: UUID of player Devous is a008c892-e7e1-48e1-8235-8aa389318b7a
+[16:46:39] [Server thread/INFO]: Devous joined the game
+[16:46:39] [Server thread/INFO]: Devous[/31.185.244.100:49802] logged in with entity id 190393 at ([world_nether]-1154.9841878164525, 94.0, 67.46733834134206)
+[16:56:02] [Server thread/INFO]: littleclav has completed the challenge [Subspace Bubble]
+[16:56:03] [Server thread/INFO]: Devous has completed the challenge [Subspace Bubble]
+[17:09:37] [Server thread/INFO]: littleclav was shot by Skeleton
+[17:10:03] [Server thread/INFO]: littleclav lost connection: Disconnected
+[17:10:03] [Server thread/INFO]: littleclav left the game
+[17:10:07] [Server thread/INFO]: Devous lost connection: Disconnected
+[17:10:07] [Server thread/INFO]: Devous left the game

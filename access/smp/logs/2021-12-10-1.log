@@ -1,0 +1,33 @@
+[00:39:49] [User Authenticator #26/INFO]: UUID of player niaori is ec179df2-a6e4-43f1-85ae-197ad4b70e6c
+[00:39:49] [Server thread/INFO]: niaori joined the game
+[00:39:49] [Server thread/INFO]: niaori[/79.69.237.208:50900] logged in with entity id 191212 at ([world]-57225.425344825664, 97.0, 63404.81309575321)
+[01:45:41] [Server thread/INFO]: niaori fell from a high place
+[02:02:30] [Server thread/INFO]: niaori lost connection: Disconnected
+[02:02:30] [Server thread/INFO]: niaori left the game
+[08:58:02] [User Authenticator #27/INFO]: UUID of player Slohth is 61a17967-0f69-458b-b723-b991229df329
+[08:58:02] [Server thread/INFO]: Slohth joined the game
+[08:58:02] [Server thread/INFO]: Slohth[/79.73.208.107:64185] logged in with entity id 203634 at ([world]-57246.13626170516, 121.0, 63430.229006613794)
+[09:00:36] [Server thread/INFO]: Slohth lost connection: Disconnected
+[09:00:36] [Server thread/INFO]: Slohth left the game
+[13:05:18] [User Authenticator #28/INFO]: UUID of player Creeprr is 986cf6da-99f9-4df0-9f1d-69e47307cedc
+[13:05:18] [Server thread/INFO]: Creeprr joined the game
+[13:05:18] [Server thread/INFO]: Creeprr[/87.57.101.74:56197] logged in with entity id 204467 at ([world]-57159.96309502073, 91.0, 63394.79822570266)
+[13:07:33] [Server thread/INFO]: Creeprr lost connection: Disconnected
+[13:07:33] [Server thread/INFO]: Creeprr left the game
+[15:40:47] [Server thread/INFO]: Stopping the server
+[15:40:47] [Server thread/INFO]: Stopping server
+[15:40:47] [Server thread/INFO]: [DragonMOTD] Disabling DragonMOTD v1.0
+[15:40:47] [Server thread/INFO]: [NerfPhantoms] Disabling NerfPhantoms v1.3.0
+[15:40:47] [Server thread/INFO]: [spark] Disabling spark v1.6.4
+[15:40:47] [Server thread/INFO]: Saving players
+[15:40:47] [Server thread/INFO]: Saving worlds
+[15:40:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:40:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:40:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:40:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:40:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:40:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:40:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:40:47] [Server thread/INFO]: Flushing Chunk IO
+[15:40:47] [Server thread/INFO]: Closing Thread Pool
+[15:40:47] [Server thread/INFO]: Closing Server

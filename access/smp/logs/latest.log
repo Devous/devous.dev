@@ -1,0 +1,128 @@
+[13:16:00] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:16:00] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[13:16:01] [Worker-Main-1/INFO]: Loaded 7 recipes
+[13:16:02] [Server thread/INFO]: Starting minecraft server version 1.18
+[13:16:02] [Server thread/INFO]: Loading properties
+[13:16:02] [Server thread/INFO]: This server is running Paper version git-Paper-66 (MC: 1.18) (Implementing API version 1.18-R0.1-SNAPSHOT) (Git: dce79f3)
+[13:16:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:16:02] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:16:02] [Server thread/INFO]: Default game type: SURVIVAL
+[13:16:02] [Server thread/INFO]: Generating keypair
+[13:16:02] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25565
+[13:16:02] [Server thread/INFO]: Using epoll channel type
+[13:16:02] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[13:16:02] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[13:16:03] [Server thread/ERROR]: [STDERR] [org.bukkit.craftbukkit.v1_18_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[13:16:08] [Server thread/WARN]: Legacy plugin DragonMOTD v1.0 does not specify an api-version.
+[13:16:08] [Server thread/INFO]: [spark] Loading spark v1.6.4
+[13:16:08] [Server thread/INFO]: [NerfPhantoms] Loading NerfPhantoms v1.3.0
+[13:16:08] [Server thread/INFO]: [DragonMOTD] Loading DragonMOTD v1.0
+[13:16:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:16:08] [Server thread/INFO]: Preparing level "world"
+[13:16:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:16:10] [Server thread/INFO]: Time elapsed: 237 ms
+[13:16:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:16:10] [Server thread/INFO]: Time elapsed: 86 ms
+[13:16:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:16:10] [Server thread/INFO]: Time elapsed: 76 ms
+[13:16:10] [Server thread/INFO]: [spark] Enabling spark v1.6.4
+[13:16:10] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
+[13:16:10] [Server thread/INFO]: [NerfPhantoms] Enabling NerfPhantoms v1.3.0
+[13:16:10] [Server thread/INFO]: [DragonMOTD] Enabling DragonMOTD v1.0*
+[13:16:10] [Server thread/INFO]: Running delayed init tasks
+[13:16:10] [Server thread/INFO]: Done (8.374s)! For help, type "help"
+[13:16:10] [Server thread/INFO]: Timings Reset
+[13:16:14] [Server thread/INFO]: Checking version, please wait...
+[13:16:14] [Thread-13/INFO]: This server is running Paper version git-Paper-66 (MC: 1.18) (Implementing API version 1.18-R0.1-SNAPSHOT) (Git: dce79f3)
+You are running the latest version
+Previous version: git-Pufferfish-7 (MC: 1.18)
+[16:10:33] [User Authenticator #1/INFO]: UUID of player Slyix is 1ed94e94-7ffa-4c77-b054-c5ea58fbf7ae
+[16:10:33] [Server thread/INFO]: Slyix joined the game
+[16:10:33] [Server thread/INFO]: Slyix[/94.14.124.8:62226] logged in with entity id 186 at ([world]-57223.06147433161, 96.0, 63407.23750001192)
+[16:11:02] [Server thread/INFO]: Slyix lost connection: Disconnected
+[16:11:02] [Server thread/INFO]: Slyix left the game
+[16:11:08] [User Authenticator #1/INFO]: UUID of player Slyix is 1ed94e94-7ffa-4c77-b054-c5ea58fbf7ae
+[16:11:08] [Server thread/INFO]: Slyix joined the game
+[16:11:08] [Server thread/INFO]: Slyix[/94.14.124.8:57111] logged in with entity id 726 at ([world]-57124.65270254855, 102.0, 63396.60548610052)
+[16:11:30] [Server thread/INFO]: Slyix lost connection: Disconnected
+[16:11:31] [Server thread/INFO]: Slyix left the game
+[16:11:40] [User Authenticator #1/INFO]: UUID of player Slyix is 1ed94e94-7ffa-4c77-b054-c5ea58fbf7ae
+[16:11:40] [Server thread/INFO]: Slyix joined the game
+[16:11:40] [Server thread/INFO]: Slyix[/94.14.124.8:57127] logged in with entity id 799 at ([world]-57126.30000001192, 101.0, 63392.67826267219)
+[16:11:46] [Server thread/INFO]: Slyix lost connection: Disconnected
+[16:11:46] [Server thread/INFO]: Slyix left the game
+[16:14:20] [User Authenticator #2/INFO]: UUID of player Slyix is 1ed94e94-7ffa-4c77-b054-c5ea58fbf7ae
+[16:14:20] [Server thread/INFO]: Slyix joined the game
+[16:14:20] [Server thread/INFO]: Slyix[/94.14.124.8:57168] logged in with entity id 864 at ([world]-57128.0122279864, 101.0, 63382.47776004879)
+[16:15:13] [User Authenticator #2/INFO]: UUID of player niaori is ec179df2-a6e4-43f1-85ae-197ad4b70e6c
+[16:15:13] [Server thread/INFO]: niaori joined the game
+[16:15:14] [Server thread/INFO]: niaori[/79.69.237.208:57367] logged in with entity id 1417 at ([world]-57224.04062618479, 96.0, 63406.708933934504)
+[16:15:28] [Async Chat Thread - #0/INFO]: <niaori> great
+[16:15:39] [Async Chat Thread - #0/INFO]: <Slyix> nice skin
+[16:15:42] [Async Chat Thread - #0/INFO]: <niaori> my shulker boxes are gone as well >:(
+[16:15:47] [Async Chat Thread - #0/INFO]: <niaori> oh thank you
+[16:15:51] [Async Chat Thread - #0/INFO]: <Slyix> I had it all in my shulker
+[16:16:21] [Async Chat Thread - #0/INFO]: <niaori> man i usually pick up my skulkers but i didnt this time
+[16:16:23] [Async Chat Thread - #0/INFO]: <niaori> ass
+[16:16:33] [Async Chat Thread - #0/INFO]: <niaori> they said thank you to josh so i wonder if they teleported
+[16:16:41] [Async Chat Thread - #0/INFO]: <Slyix> did they
+[16:16:42] [Async Chat Thread - #0/INFO]: <Slyix> fuck
+[16:16:54] [Async Chat Thread - #0/INFO]: <niaori> ill send a screenshot as i havent left yet
+[16:17:04] [Async Chat Thread - #0/INFO]: <niaori> mick do you have a few spare rockets so i can get out
+[16:17:18] [Async Chat Thread - #0/INFO]: <Slyix> threw some
+[16:18:00] [Async Chat Thread - #0/INFO]: <niaori> oh wow it really is just gone
+[16:19:21] [Async Chat Thread - #1/INFO]: <Slyix> hmmm well
+[16:19:32] [Async Chat Thread - #1/INFO]: <Slyix> I think some relocated so
+[16:19:45] [Async Chat Thread - #1/INFO]: <niaori> i was actually starting to like playing again
+[16:19:52] [Async Chat Thread - #1/INFO]: <niaori> oh well
+[16:20:05] [Async Chat Thread - #1/INFO]: <Slyix> I wouldnt care much if I knew they didnt cheat
+[16:20:07] [Async Chat Thread - #1/INFO]: <Slyix> but like
+[16:20:36] [Async Chat Thread - #1/INFO]: <Slyix> they clearly didnt find the village
+[16:20:58] [Async Chat Thread - #1/INFO]: <niaori> i knew they would have found it but i didnt really think they would cheat as much as they have
+[16:21:09] [Async Chat Thread - #1/INFO]: <Slyix> yhhh
+[16:21:24] [Async Chat Thread - #1/INFO]: <niaori> we only payed back to what they did beforehand
+[16:21:34] [Async Chat Thread - #1/INFO]: <niaori> that could have really been the end of it
+[16:21:43] [Async Chat Thread - #1/INFO]: <Slyix> mhm
+[16:22:08] [Async Chat Thread - #1/INFO]: <niaori> whats the plan now
+[16:22:34] [Async Chat Thread - #1/INFO]: <Slyix> no clue
+[16:22:42] [Async Chat Thread - #1/INFO]: <Slyix> I would go blow up their shit but its like
+[16:22:44] [Async Chat Thread - #1/INFO]: <Slyix> idk where they are
+[16:23:05] [Async Chat Thread - #1/INFO]: <niaori> theres no point now like
+[16:23:09] [Async Chat Thread - #1/INFO]: <niaori> we have nothing left really
+[16:23:25] [Async Chat Thread - #1/INFO]: <Slyix> mhm
+[16:23:28] [Async Chat Thread - #1/INFO]: <niaori> theres nothing to need to be angry about if we just dont continue to play
+[16:23:28] [Async Chat Thread - #1/INFO]: <Slyix> I have no clue
+[16:24:03] [Async Chat Thread - #1/INFO]: <Slyix> poor morten
+[16:24:06] [Async Chat Thread - #1/INFO]: <niaori> i should have put my shulkers away man
+[16:24:21] [Async Chat Thread - #1/INFO]: <niaori> they have to had cheated
+[16:24:27] [Async Chat Thread - #1/INFO]: <Slyix> 100%
+[16:25:14] [Async Chat Thread - #1/INFO]: <niaori> like theres no way unless they did what i said and chose a direction to go from our bedrock portal
+[16:25:29] [Async Chat Thread - #1/INFO]: <niaori> each to their own i suppose
+[16:25:46] [Async Chat Thread - #1/INFO]: <Slyix> even so they would of had to covered thousands upon thousands of blocks
+[16:26:15] [Async Chat Thread - #1/INFO]: <niaori> i mean if they did it via nether ceiling and found our new portal it wouldnt have been too hard
+[16:26:24] [Async Chat Thread - #1/INFO]: <Slyix> I mean yes it would
+[16:26:43] [Async Chat Thread - #1/INFO]: <Slyix> bc even when you go out to the distance we travelled you would of had to searched far
+[16:27:00] [Async Chat Thread - #1/INFO]: <Slyix> bc even if you looked 1 block to the side that could of been 1 thousand blocks to the side
+[16:27:03] [Async Chat Thread - #1/INFO]: <niaori> yeah idk they're probably reading logs and laughing at us
+[16:27:11] [Async Chat Thread - #1/INFO]: <Slyix> plus with stuff not rendering in they would of been slowed
+[16:27:15] [Async Chat Thread - #1/INFO]: <Slyix> idc
+[16:27:35] [Async Chat Thread - #1/INFO]: <niaori> id say create a new smp but is it really worth all the time and effort
+[16:27:59] [Async Chat Thread - #1/INFO]: <Slyix> to make a small one probs
+[16:28:07] [Async Chat Thread - #1/INFO]: <Slyix> we wont all spend lots of time on it
+[16:28:15] [Async Chat Thread - #1/INFO]: <Slyix> but the amount of small time from being bored we would spend
+[16:28:17] [Async Chat Thread - #1/INFO]: <Slyix> it may be
+[16:29:41] [Async Chat Thread - #2/INFO]: <niaori> emily doesnt care much as she died and was at spawn anyway
+[16:29:52] [Async Chat Thread - #2/INFO]: <niaori> she wasnt going to join back i dont think
+[16:30:50] [Server thread/INFO]: niaori was blown up by Creeper
+[16:33:12] [Server thread/INFO]: niaori lost connection: Disconnected
+[16:33:12] [Server thread/INFO]: niaori left the game
+[16:33:24] [Server thread/INFO]: Slyix lost connection: Disconnected
+[16:33:24] [Server thread/INFO]: Slyix left the game
+[16:43:58] [User Authenticator #3/INFO]: UUID of player littleclav is 8415d163-886d-4d2c-81e4-30bbe9406ea0
+[16:43:59] [Server thread/INFO]: littleclav joined the game
+[16:43:59] [Server thread/INFO]: littleclav[/188.95.144.199:48135] logged in with entity id 4315 at ([world]-9807.663543729148, 66.0, -600.4972992682872)
+[16:45:22] [Server thread/INFO]: littleclav drowned
+[16:47:17] [Server thread/INFO]: littleclav was blown up by Creeper
+[16:48:33] [Server thread/INFO]: littleclav was impaled by Drowned
+[16:56:05] [Server thread/INFO]: littleclav lost connection: Disconnected
+[16:56:05] [Server thread/INFO]: littleclav left the game

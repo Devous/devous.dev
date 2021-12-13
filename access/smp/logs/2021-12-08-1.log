@@ -1,0 +1,37 @@
+[22:01:39] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:01:39] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[22:01:40] [Worker-Main-2/INFO]: Loaded 7 recipes
+[22:01:41] [Server thread/INFO]: Starting minecraft server version 1.18
+[22:01:41] [Server thread/INFO]: Loading properties
+[22:01:41] [Server thread/INFO]: This server is running Pufferfish version git-Pufferfish-7 (MC: 1.18) (Implementing API version 1.18-R0.1-SNAPSHOT) (Git: 2513866 on HEAD)
+[22:01:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:01:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:01:41] [Server thread/WARN]: [Pufferfish] To improve performance, timings have been disabled by default
+[22:01:41] [Server thread/WARN]: [Pufferfish] You can still use timings by using /timings on, but they will not start on server startup unless you set timings.really-enabled to true in paper.yml
+[22:01:41] [Server thread/WARN]: [Pufferfish] If you would like to disable this message, either set timings.really-enabled to true or timings.enabled to false.
+[22:01:41] [Server thread/INFO]: Default game type: SURVIVAL
+[22:01:41] [Server thread/INFO]: Generating keypair
+[22:01:42] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25565
+[22:01:42] [Server thread/INFO]: Using epoll channel type
+[22:01:42] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:01:42] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[22:01:42] [Server thread/ERROR]: [STDERR] [org.bukkit.craftbukkit.v1_18_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[22:01:47] [Server thread/WARN]: Legacy plugin DragonMOTD v1.0 does not specify an api-version.
+[22:01:47] [Server thread/INFO]: [spark] Loading spark v1.6.4
+[22:01:47] [Server thread/INFO]: [NerfPhantoms] Loading NerfPhantoms v1.3.0
+[22:01:47] [Server thread/INFO]: [DragonMOTD] Loading DragonMOTD v1.0
+[22:01:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:01:47] [Server thread/INFO]: Preparing level "world"
+[22:01:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:01:48] [Server thread/INFO]: Time elapsed: 233 ms
+[22:01:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:01:48] [Server thread/INFO]: Time elapsed: 95 ms
+[22:01:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:01:48] [Server thread/INFO]: Time elapsed: 140 ms
+[22:01:48] [Server thread/INFO]: [spark] Enabling spark v1.6.4
+[22:01:49] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
+[22:01:49] [Server thread/INFO]: [NerfPhantoms] Enabling NerfPhantoms v1.3.0
+[22:01:49] [Server thread/INFO]: [DragonMOTD] Enabling DragonMOTD v1.0*
+[22:01:49] [Server thread/INFO]: Running delayed init tasks
+[22:01:49] [Server thread/INFO]: Done (7.873s)! For help, type "help"
+[22:01:49] [Server thread/INFO]: Timings Reset

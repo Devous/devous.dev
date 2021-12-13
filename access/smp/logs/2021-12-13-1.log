@@ -1,0 +1,32 @@
+[13:08:21] [User Authenticator #30/INFO]: UUID of player Brawn is 90165133-fa69-46e1-800e-36bfe5a680c3
+[13:08:21] [Server thread/INFO]: Brawn joined the game
+[13:08:21] [Server thread/INFO]: Brawn[/2.24.126.110:63536] logged in with entity id 195539 at ([world]-78688.18147115351, 141.0, -78501.14161534239)
+[13:08:44] [Server thread/INFO]: Made Brawn a server operator
+[13:09:00] [Server thread/INFO]: Brawn issued server command: /tp ~ ~ ~
+[13:09:00] [Server thread/INFO]: [Brawn: Teleported Brawn to -78691.364446, 141.000000, -78501.835665]
+[13:10:11] [Server thread/INFO]: Brawn issued server command: /tp -57214 96 63397
+[13:10:11] [Server thread/INFO]: [Brawn: Teleported Brawn to -57213.500000, 96.000000, 63397.500000]
+[13:10:11] [Server thread/WARN]: Brawn moved too quickly! 21477.042150607624,-45.0,141898.54062426748
+[13:13:39] [Server thread/INFO]: Brawn issued server command: /tps
+[13:14:03] [Server thread/INFO]: Brawn issued server command: /tp -78691.36 141 -78501.83
+[13:14:03] [Server thread/INFO]: [Brawn: Teleported Brawn to -78691.360000, 141.000000, -78501.830000]
+[13:14:03] [Server thread/WARN]: Brawn moved too quickly! -21567.977130129846,13.20083489940042,-141851.1173950731
+[13:14:11] [Server thread/INFO]: Brawn lost connection: Disconnected
+[13:14:11] [Server thread/INFO]: Brawn left the game
+[13:15:50] [Server thread/INFO]: Stopping the server
+[13:15:50] [Server thread/INFO]: Stopping server
+[13:15:50] [Server thread/INFO]: [DragonMOTD] Disabling DragonMOTD v1.0
+[13:15:50] [Server thread/INFO]: [NerfPhantoms] Disabling NerfPhantoms v1.3.0
+[13:15:50] [Server thread/INFO]: [spark] Disabling spark v1.6.4
+[13:15:50] [Server thread/INFO]: Saving players
+[13:15:50] [Server thread/INFO]: Saving worlds
+[13:15:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:15:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[13:15:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[13:15:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:15:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:15:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:15:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:15:51] [Server thread/INFO]: Flushing Chunk IO
+[13:15:51] [Server thread/INFO]: Closing Thread Pool
+[13:15:51] [Server thread/INFO]: Closing Server
